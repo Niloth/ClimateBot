@@ -1,4 +1,4 @@
-# PLEASE NOTE THE VIDEO files are .ppt (POWER POINT) files so are huge in size. They are uploaded to Canvas separately. 
+# Please note the VIDEO files are .ppt (POWER POINT) files so are huge in size. They are uploaded to Canvas separately. 
 
 # ClimateBot
 Project1: Climate Bot based on Google DialogFlow integrated with Telegram App
